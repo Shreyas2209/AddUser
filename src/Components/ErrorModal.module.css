@@ -1,0 +1,23 @@
+.error {
+  background-color: rgba(255, 0, 0, 0.647);
+  max-width: 500px;
+  border: 1px solid black;
+  border-radius: 20px;
+  margin: 0 auto;
+  padding: 20px;
+  margin-bottom: 30px;
+  box-shadow: 5px 5px 5px gray;
+  margin-top: 10px;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.errorBtn{
+  border-radius: 4px;
+  padding: 3px 10px;
+}
